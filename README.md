@@ -1,21 +1,21 @@
-![A pretty README header](assets/Readme-Header.png)
+![A pretty README header](./assets/Readme-Header.png)
 <br />
 <br />
 
-![What is this about?](assets/Readme-What-is-this.png)
+![What is this about?](./assets/Readme-What-is-this.png)
 
-Rocketsear Explorer is the second-level course, preceded by Rocketseat Discover, that works in getting us more steps into development. I have started this course by doing some of their projects, and then realized I was skipping Rocketseat Discover: right now, I'm studying Discover, and you can check my notes right here. I will be back as soon as I finish it! For now, you can check my projects here:
+I found iCodeThis when I was randomly looking for a daily challenge to keep me coding everyday. Since I want to keep up my GitHub activity, I was really glad when I finally found an active community for daily challenges, but they were around Challenge #104, I guess. I took a look at their past challenges and I found myself really excited to participate, so I joined one. It was really fun, and then I've decided to start from #01! I can do more than 1 per day, so I expect to keep up with the community soon.
 <br />
 <br />
 <br />
 <br />
 
-![Projects list](assets/Readme-Projects-list.png)
+![Challenges List](./assets/Readme-Challenges-list.png)
 
 |         |             |    
 | :-------------:|:-------------:|
-| ![Project 01](assets/Readme-P1.png) | ![Project 02](assets/Readme-P2.png)  |
-| **Project #01:** Simple Landing Page   | **Project #02:** Simple Landing Page  
+| ![Challenge #01](./1-social-login/assets/Readme-files/Readme-Mockup.png) | ![Challenge #101](./1-product-page/assets/Readme-files/Readme-Mockup.png)  |
+| **Challenge #01:** Social Login   | **Challenge:** Product Page  
 | **Code:** [📄](https://github.com/malunaridev/Rocketseat-Explorer/tree/master/project-01) \| **Live Preview:** [🌐](https://rocketseat-explorer-01.vercel.app/) | **Code:** [📄](https://github.com/malunaridev/Rocketseat-Explorer/tree/master/project-02) \| **Live Preview:** [🌐](https://rocketseat-explorer-02.vercel.app/) 
 
 <br />
