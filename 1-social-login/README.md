@@ -6,7 +6,7 @@
 | :-------------:|
 | ![Challenge #1](./assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #01:** Social Login   | 
-| **Original Project:** [🌐](./assets/Readme-files/example.jpg) / **My Code:** [📄](https://github.com/malunaridev/Challenges-From-Everywhere/tree/master/i-Code-This/1-social-login) / **Live Preview:** [🌐](https://ict-1-social-login.vercel.app/)  
+| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/1-social-login/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/1-social-login) / **Live Preview:** [🌐](https://challenges-ict-social-login.vercel.app/)  
 
 <br />
 <br />
