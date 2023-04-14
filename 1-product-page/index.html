@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>iCodeThis - Challenge: Produt Page</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="./script.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anuphan&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/d92630495d.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <main>
+      <div id="left-card"></div>
+      <div id="main-card">
+        <div id="info">
+          <h1 class="bag-title">Rotterdam Blick <span>Bag</span></h1>
+          <div class="bag-description">
+            This trapezius bag measures 31 x 15 x 30 cm and has 2 exterior and 3
+            interior pockets. It's made of faux leather, has etched patterns and
+            a bunch of colors. You can wear it with jeans and colorful shoes!
+          </div>
+          <div class="old-price">&nbsp;$99.95&nbsp;</div>
+          <div class="new-price">$79.95</div>
+          <div class="color-picker">
+            <div class="info-text">Colors</div>
+            <button class="colors-bag-1" title="Classic" onclick="changeBag('bag-1')"></button>
+            <button class="colors-bag-2" title="Candy Pink" onclick="changeBag('bag-2')"></button>
+            <button class="colors-bag-3" title="Candy Purple" onclick="changeBag('bag-3')"></button>
+            <button class="colors-bag-4" title="Neon" onclick="changeBag('bag-4')"></button>
+          </div>
+          <div class="size-picker">
+            <div class="info-text">Sizes</div>
+            <button class="size-small">S</button>
+            <button class="size-medium">M</button>
+            <button class="size-large">L</button>
+          </div>
+        </div>
+        <div id="bag">
+          <img class="bag-images" src="./assets/bag-3.png">
+          <button class="add-to-cart-1">Add to Cart</button>
+        </div>
+        <div id="share">
+          <span class="info-text"> Share is loving </span>
+          <i class="fa-brands fa-twitter"></i>
+          <i class="fa-brands fa-pinterest"></i>
+          <i class="fa-brands fa-square-instagram"></i>
+          <i class="fa-brands fa-square-facebook"></i>
+        </div>
+      </div>
+
+      <div id="right-card"></div>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,166 @@
+* {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  --color-1: #f3f8fe;
+  --color-2: #243f9e;
+  --color-3: #4f6fde;
+  --color-4: #dde5f8;
+  --color-5: #dee5f9;
+  --color-6: #41456a;
+  --color-7: #ffffff;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-1);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  width: 70rem;
+  height: 25rem;
+  background: linear-gradient(
+    130deg,
+    rgba(79, 111, 222, 1) 0%,
+    rgba(36, 63, 158, 1) 100%
+  );
+  border-radius: 1.5rem;
+  outline: 2rem solid var(--color-4);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  position: relative;
+  margin-bottom: 12rem;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 2.5rem;
+  color: var(--color-7);
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: var(--color-7);
+  width: 20rem;
+  text-align: center;
+  line-height: 1.5rem;
+  letter-spacing: 0.1rem;
+  margin-bottom: 1rem;
+}
+
+form {
+  position: relative;
+}
+
+input[type="email"] {
+  width: 30rem;
+  height: 4.5rem;
+  border-radius: 3rem;
+  border: 0;
+  background: linear-gradient(
+    130deg,
+    rgba(134, 155, 228, 1) 34%,
+    rgba(102, 133, 240, 1) 100%
+  );
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+input[type="email"]::placeholder {
+  color: var(--color-7);
+  opacity: 0.7;
+}
+
+input[type="email"]:focus {
+  outline: 0;
+  border: 1px solid var(--color-4);
+}
+
+button {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 5rem;
+  border: 0;
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  cursor: pointer;
+}
+
+button i {
+  font-size: 1.5rem;
+  color: var(--color-6);
+  margin: 0 auto;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.profile-pictures {
+  position: absolute;
+  bottom: -5rem;
+}
+
+.profile {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 10rem;
+  border: 0.6rem solid var(--color-7);
+  -webkit-box-shadow: 0px 15px 11px -6px #cdd4e6;
+  box-shadow: 0px 15px 11px -6px #cdd4e6;
+}
+
+.profile:hover {
+  animation: heartBeat; 
+  animation-duration: 2s; 
+}
+
+.profile + .profile {
+  margin-left: 2.5rem;
+}
+
+@media (max-width: 750px) {
+  * {
+    font-size: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  * {
+    font-size: 45%;
+  }
+}
+
+@media (max-width: 550px) {
+  * {
+    font-size: 40%;
+  }
+}
+
+@media (max-width: 470px) {
+  * {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 400px) {
+  * {
+    font-size: 30%;
+  }
+}
