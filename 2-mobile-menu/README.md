@@ -6,7 +6,7 @@
 | :-------------:|
 | ![Challenge #2](./assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #02:** Mobile Menu   | 
-| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/1-social-login/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/2-mobile-menu) / **Live Preview:** [🌐](https://challenges-ict-2-mobile-menu.vercel.app/)  
+| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/2-mobile-menu/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/2-mobile-menu) / **Live Preview:** [🌐](https://challenges-ict-2-mobile-menu.vercel.app/)  
 
 <br />
 <br />
