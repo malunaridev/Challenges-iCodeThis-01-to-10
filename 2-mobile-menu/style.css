@@ -1,0 +1,171 @@
+* {
+  font-size: 62, 5%;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+:root {
+  --color-1: #f7faff;
+  --color-2: #ffffff;
+  --color-3: #bebec0;
+  --color-4: #040b15;
+  --color-5: #2573f1;
+}
+
+body {
+  background-color: var(--color-1);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  height: 50rem;
+  width: 27rem;
+  background-color: var(--color-2);
+  -webkit-box-shadow: 0px 15px 11px -6px #cdd4e6;
+  box-shadow: 0px 15px 11px -6px #cdd4e6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  border-radius: 1rem;
+}
+
+#menu-header {
+  width: 100%;
+  height: 15rem;
+  background: url("./assets/background.png") no-repeat;
+  background-position: -0.2rem -2rem;
+  background-size: cover;
+  display: flex;
+  position: relative;
+  border-radius: 1rem;
+}
+
+#menu-header .profile-icon {
+  width: 7rem;
+  height: 7rem;
+  border-radius: 10rem;
+  border: 0.7rem solid #7391db;
+  position: absolute;
+  left: 1.5rem;
+  top: 2rem;
+}
+
+.profile-icon:hover {
+  animation: bounce;
+  animation-duration: 1s;
+}
+
+#menu-header .profile-info {
+  font-family: "Montserrat", sans-serif;
+  color: var(--color-2);
+  position: absolute;
+  left: 10rem;
+  top: 3.7rem;
+}
+
+#menu-header h1 {
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  font-weight: 500;
+}
+
+#menu-header h2 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.branch-button {
+  width: 16rem;
+  height: 3.5rem;
+  background-color: #628cfe;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+  color: var(--color-2);
+  border-radius: 0.5rem;
+  border: 0;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 15px 11px -6px #e2e6f0;
+  box-shadow: 0px 15px 11px -6px #e2e6f0;
+}
+
+.branch-button:hover {
+  background-color: #4975ee;
+}
+
+nav {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.nav-button {
+  height: 5.5rem;
+  width: 26.5rem;
+  background-color: var(--color-2);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  color: var(--color-4);
+  text-align: left;
+  border-radius: 0;
+  border: 0;
+  padding-left: 2.5rem;
+}
+
+.nav-button i {
+  font-size: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.nav-button:hover {
+  border-left: 0.5rem solid var(--color-5);
+  margin-left: -0.5rem;
+  padding-left: 2.25rem;
+  color: var(--color-5);
+  cursor: pointer;
+}
+
+.close-button {
+  font-size: 2.5rem;
+  color: var(--color-3);
+  position: absolute;
+  bottom: 1.5rem;
+  right: 2rem;
+  cursor: pointer;
+}
+
+.close-button:hover {
+  color: var(--color-4);
+}
+
+@media (max-width: 500px) {
+  * {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 400px) {
+  * {
+    font-size: 80%;
+  }
+}
+
+@media (max-width: 355px) {
+  * {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 320px) {
+  * {
+    font-size: 62%;
+  }
+}
