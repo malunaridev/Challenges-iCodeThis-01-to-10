@@ -5,7 +5,7 @@
 |         |               
 | :-------------:|
 | ![Challenge #3](./assets/Readme-files/Readme-Mockup.png)  |
-| **Challenge #03:** Cart ITEM   | 
+| **Challenge #03:** Cart Item   | 
 | **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/3-cart-item/assets/Readme-files/example.jpeg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/3-cart-item) / **Live Preview:** [🌐](https://challenges-ict-3-cart-item.netlify.app/)  
 
 <br />
