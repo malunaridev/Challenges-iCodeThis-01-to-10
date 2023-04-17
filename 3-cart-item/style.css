@@ -55,6 +55,7 @@ h2 {
   font-weight: 700;
   line-height: 1.5rem;
   margin-bottom: 2rem;
+  cursor:default;
 }
 
 h3 {
@@ -62,11 +63,14 @@ h3 {
   font-weight: 300;
   font-size: 0.65rem;
   text-decoration: line-through;
+  cursor:default;
 }
 
 h1 {
   font-family: "Lato", sans-serif;
   font-weight: 900;
+  cursor:default;
+  font-size: 2.5rem;
 }
 
 h4 {
@@ -74,12 +78,14 @@ h4 {
   font-weight: 300;
   font-size: 0.7rem;
   margin-bottom: 1rem;
+  cursor:default;
 }
 
 .add-to-cart {
   width: 100%;
   height: 2.7rem;
   font-family: "Lato", sans-serif;
+  font-size: 1rem;
   background-color: #4787e9;
   color: #fff;
   font-weight: 400;
@@ -87,6 +93,11 @@ h4 {
   border-bottom: 0.3rem solid #1e56ed;
   border-radius: 0.4rem;
   margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.add-to-cart:active {
+  border-bottom: 0;
 }
 
 .stock {
@@ -116,5 +127,46 @@ h3 i {
   background-color: #fff;
   border: 0.1rem solid #d6d5d9;
   border-radius: 0.2rem;
+  cursor: pointer;
+}
+
+.add-to-cart-2 i,
+.add-to-wishlist i {
+  margin-right: 0.5rem;
+}
+
+.add-to-cart-2:hover,
+.add-to-wishlist:hover {
+  border: 0.1rem solid #a7a7aa;
+}
+
+@media (max-width: 700px) {
+  * {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 630px) {
+  * {
+    font-size: 80%;
+  }
+}
+
+@media (max-width: 580px) {
+  * {
+    font-size: 70%;
+  }
+}
+
+@media (max-width: 495px) {
+  * {
+    font-size: 60%;
+  }
+}
+
+@media (max-width: 420px) {
+  * {
+    font-size: 50%;
+  }
 }
 
