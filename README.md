@@ -20,7 +20,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 
 |         |             |    
 | :-------------:|:-------------:|
-| ![Challenge #01](./3-cart-item/assets/Readme-files/Readme-Mockup.png)  | ![Challenge #101](./1-product-page/assets/Readme-files/Readme-Mockup.png)  |
+| ![Challenge #01](./3-cart-item/assets/Readme-files/Readme-Mockup.png)  | ![Challenge #04](./4-leaderboard/assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #03:** Cart Item   | **Challenge #04:** Leaderboard  
 | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/3-cart-item) \| **Live Preview:** [🌐](https://challenges-ict-3-cart-item.netlify.app/)   | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/4-leaderboard) \| **Live Preview:** [🌐](https://challenges-ict-4-leaderboard.netlify.app/) 
 
