@@ -126,3 +126,9 @@ h4 {
 .confirm:hover {
     background-color: #ffceb7;  
 }
+
+@media (max-width: 625px) {
+  * {
+    font-size: 65%;
+  }
+}
