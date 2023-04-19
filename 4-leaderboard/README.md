@@ -41,7 +41,7 @@ Ok, about the fourth challenge: the most difficult one until now! I have a lot o
 
 ![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png)
 
-It was my frist time using tables like this, and algo first time using pseudoelements! I was expecting something bad at the end, but I was surprised when it actually worked out really well! I learned about <code>tr:not(:first-child):hover</code>, for example, it was totally new to me. I needed a hover that works for every row, except the first one, and I found and studied this selector. It was really fun!
+It was my first time using tables like this, and algo first time using pseudoelements! I was expecting something bad at the end, but I was surprised when it actually worked out really well! I learned about <code>tr:not(:first-child):hover</code>, for example, it was totally new to me. I needed a hover that works for every row, except the first one, and I found and studied this selector. It was really fun!
 
 <br />
 <br />
