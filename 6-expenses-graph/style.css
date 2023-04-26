@@ -1,0 +1,210 @@
+* {
+  font-size: 62.5%;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(
+    153deg,
+    rgba(145, 200, 241, 1) 34%,
+    rgba(112, 110, 244, 1) 100%
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  width: 70rem;
+  height: 50rem;
+  background-color: #fff;
+  border-radius: 3rem;
+  padding: 3rem 5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+main h1 {
+  font-family: "Merriweather", serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #1e1e51;
+}
+
+#period-picker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.periods {
+  height: 5rem;
+  background-color: #eef0ff;
+  border-radius: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+#period-picker button {
+  width: 8rem;
+  height: 4rem;
+  background-color: #eef0ff;
+  border-radius: 3rem;
+  border: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.weekly {
+  color: #fff;
+  background: linear-gradient(
+    153deg,
+    rgba(145, 200, 241, 1) 34%,
+    rgba(112, 110, 244, 1) 100%
+  );
+  margin-left: 0.5rem;
+}
+
+.more {
+  font-size: 4rem;
+}
+
+#graph {
+  width: 70rem;
+  height: 27rem;
+  display: flex;
+  position: relative;
+}
+
+.money {
+  display: flex;
+}
+
+.quantify {
+  height: 29rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.ruler {
+  width: 67rem;
+  height: 30rem;
+  position: absolute;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-around;
+  z-index: 1;
+}
+
+hr {
+  border: 0.1rem solid #e8e8e9;
+  width: 100%;
+}
+
+.graph-bars {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  z-index: 1;
+}
+
+.monday,
+.tuesday,
+.wednesday,
+.thursday,
+.friday,
+.saturday,
+.sunday {
+  display: flex;
+  align-items: flex-end;
+}
+
+.monday-inc,
+.tuesday-inc,
+.wednesday-inc,
+.thursday-inc,
+.friday-inc,
+.saturday-inc,
+.sunday-inc {
+  width: 0.8rem;
+  border-radius: 2rem;
+  background-color: #7275f5;
+  margin-right: 0.2rem;
+}
+.monday-inc {
+  height: 22rem;
+}
+.tuesday-inc {
+  height: 14rem;
+}
+.wednesday-inc {
+  height: 9rem;
+}
+.thursday-inc {
+  height: 20rem;
+}
+.friday-inc {
+  height: 13rem;
+}
+.saturday-inc {
+  height: 9rem;
+}
+.sunday-inc {
+  height: 4rem;
+}
+
+.monday-exp,
+.tuesday-exp,
+.wednesday-exp,
+.thursday-exp,
+.friday-exp,
+.saturday-exp,
+.sunday-exp {
+  width: 0.4rem;
+  border-radius: 1rem;
+  background-color: #e078af;
+}
+
+.monday-exp {
+  height: 10rem;
+}
+.tuesday-exp {
+  height: 5rem;
+}
+.wednesday-exp {
+  height: 3rem;
+}
+.thursday-exp {
+  height: 10rem;
+}
+.friday-exp {
+  height: 8rem;
+}
+.saturday-exp {
+  height: 5rem;
+}
+.sunday-exp {
+  height: 3rem;
+}
+
+.week-days {
+  width: 60.8rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.1rem;
+  font-weight: 300;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-left: 5.5rem;
+}
