@@ -1,87 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="https://kit.fontawesome.com/d92630495d.js" crossorigin="anonymous"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@300;400&display=swap" rel="stylesheet"> 
-</head>
-<body>
-  <main>
-<h1>Expenses</h1>
-
-<div id="period-picker">
-  <div class="periods">
-    <button class="weekly">Weekly</button>
-    <button class="monthly">Monthly</button>
-    <button class="yearly">Yearly</button>
-  </div>
-<div class="more"><i class="fa-sharp fa-solid fa-ellipsis"></i></div>
-</div>
-
-<div id="graph">
-  <div class="money">
-    <div class="quantify">
-    <p>4K</p>
-    <p>3K</p>
-    <p>2K</p>
-    <p>1K</p>
-    <p>0</p>
-    </div>
-    <div class="ruler">
-      <hr><hr><hr><hr><hr>
-    </div>  
-  </div>
-  <div class="graph-bars">
-    <div class="monday">
-      <div class="monday-inc"></div>
-      <div class="monday-exp"></div>
-    </div>
-    <div class="tuesday">
-      <div class="tuesday-inc"></div>
-      <div class="tuesday-exp"></div>
-    </div>
-    <div class="wednesday">
-      <div class="wednesday-inc"></div>
-      <div class="wednesday-exp"></div>
-    </div>
-    <div class="thursday">
-      <div class="thursday-inc"></div>
-      <div class="thursday-exp"></div>
-    </div>
-    <div class="friday">
-      <div class="friday-inc"></div>
-      <div class="friday-exp"></div>
-    </div>
-    <div class="saturday">
-      <div class="saturday-inc"></div>
-      <div class="saturday-exp"></div>
-    </div>
-    <div class="sunday">
-      <div class="sunday-inc"></div>
-      <div class="sunday-exp"></div>
-    </div>  
-  </div>
-</div>
-  <div class="week-days">
-    <p>Mon</p>
-    <p>Tue</p>
-    <p>Wed</p>
-    <p>Thu</p>
-    <p>Fri</p>
-    <p>Sat</p>
-    <p>Sun</p>
-  </div>
-
-<div id="colors">
-  <i class="fa-solid fa-circle"></i> Income
-  <i class="fa-solid fa-circle"></i>
-  Expenses
-</div>
-</main>
-</body>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>iCodeThis - Challenge #06: Expenses Graph</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/d92630495d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main>
+      <h1>Expenses</h1>
+      <div id="period-picker">
+        <div class="periods">
+          <button class="weekly">Weekly</button>
+          <button class="monthly">Monthly</button>
+          <button class="yearly">Yearly</button>
+        </div>
+        <div class="more"><i class="fa-sharp fa-solid fa-ellipsis"></i></div>
+      </div>
+      <div id="graph">
+        <div class="money">
+          <div class="quantify">
+            <p>4K</p>
+            <p>3K</p>
+            <p>2K</p>
+            <p>1K</p>
+            <p>0</p>
+          </div>
+          <div class="ruler">
+            <hr />
+            <hr />
+            <hr />
+            <hr />
+            <hr />
+          </div>
+        </div>
+        <div class="graph-bars">
+          <div class="monday">
+            <div class="monday-inc"></div>
+            <div class="monday-exp"></div>
+          </div>
+          <div class="tuesday">
+            <div class="tuesday-inc"></div>
+            <div class="tuesday-exp"></div>
+          </div>
+          <div class="wednesday">
+            <div class="wednesday-inc"></div>
+            <div class="wednesday-exp"></div>
+          </div>
+          <div class="thursday">
+            <div class="thursday-inc"></div>
+            <div class="thursday-exp"></div>
+          </div>
+          <div class="friday">
+            <div class="friday-inc"></div>
+            <div class="friday-exp"></div>
+          </div>
+          <div class="saturday">
+            <div class="saturday-inc"></div>
+            <div class="saturday-exp"></div>
+          </div>
+          <div class="sunday">
+            <div class="sunday-inc"></div>
+            <div class="sunday-exp"></div>
+          </div>
+        </div>
+      </div>
+      <div class="week-days">
+        <p>Mon</p>
+        <p>Tue</p>
+        <p>Wed</p>
+        <p>Thu</p>
+        <p>Fri</p>
+        <p>Sat</p>
+        <p>Sun</p>
+      </div>
+      <div id="colors">
+        <i class="fa-solid fa-circle"></i> Incomes
+        <i class="fa-solid fa-circle"></i> Expenses
+      </div>
+    </main>
+  </body>
 </html>
