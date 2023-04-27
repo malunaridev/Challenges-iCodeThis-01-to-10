@@ -243,3 +243,39 @@ i + i {
   margin-left: 2rem;
   color: #e078af;
 }
+
+@media (max-width: 890px) {
+  * {
+    font-size: 55%;
+  }
+}
+
+@media (max-width: 750px) {
+  * {
+    font-size: 45%;
+  }
+}
+
+@media (max-width: 630px) {
+  * {
+    font-size: 40%;
+  }
+}
+
+@media (max-width: 560px) {
+  * {
+    font-size: 35%;
+  }
+}
+
+@media (max-width: 500px) {
+  * {
+    font-size: 30%;
+  }
+}
+
+@media (max-width: 430px) {
+  * {
+    font-size: 25%;
+  }
+}
