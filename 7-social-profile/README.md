@@ -4,16 +4,16 @@
 
 |         |               
 | :-------------:|
-| ![Challenge #5](./assets/Readme-files/Readme-Mockup.png)  |
-| **Challenge #05:** Friend Request   | 
-| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/5-friend-request/assets/Readme-files/example.jpeg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/5-friend-request) / **Live Preview:** [🌐](https://challenge-ict-5-friend-request.netlify.app/)  
+| ![Challenge #7](./assets/Readme-files/Readme-Mockup.png)  |
+| **Challenge #07:** Social Profile   | 
+| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/7-social-profile/assets/Readme-files/example.jpeg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/7-social-profile) / **Live Preview:** [🌐](https://challenge-ict-7-social-profile.netlify.app/)  
 
 <br />
 <br />
 
 ![Introduction](./assets/Readme-files/Readme-Introduction.png)
 
-The challenge #05 was really fun and simple! I used some flexbox content to make everyhting fits in the right place, and I had fun realizing which divs I should use.
+The challenge #06 was a easy one, and there was not much to learn about. I think this is a good sign, meaning that I have less and less to search every time. 
 
 <br />
 <br />
@@ -41,7 +41,7 @@ The challenge #05 was really fun and simple! I used some flexbox content to make
 
 ![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png)
 
-It was my first time using <code>flex-grow</code>, and at first I was wondering if it would help me to achieve the structure I wanted. It was a glad surprise to see how it actually works when you drop it in your project!
+I have learned from a friend the trick about using <code>position: relative</code>, then repositioning the div the way I wanted. It turned out to be really useful when you already have a layout (as an example, the <code>display:flex</code>) but wants to literally "unalign" something.
 
 <br />
 <br />
