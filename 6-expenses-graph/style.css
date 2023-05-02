@@ -75,13 +75,17 @@ main h1 {
   border: 0.2rem solid rgb(145, 200, 241);
 }
 
-.weekly {
+.selected {
   color: #fff;
   background: linear-gradient(
     153deg,
     rgba(145, 200, 241, 1) 34%,
     rgba(112, 110, 244, 1) 100%
   );
+}
+
+#period-picker button .selected:hover{
+  border: none;
 }
 
 .more {
@@ -111,7 +115,7 @@ main h1 {
 }
 
 .ruler {
-  width: 67rem;
+  width: 66rem;
   height: 30rem;
   position: absolute;
   right: 0;
@@ -127,102 +131,42 @@ hr {
   width: 100%;
 }
 
-.graph-bars {
-  width: 100%;
+#graph-bars {
+  width: 66rem;
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
   z-index: 1;
+  margin-left:2rem;
 }
 
-.monday,
-.tuesday,
-.wednesday,
-.thursday,
-.friday,
-.saturday,
-.sunday {
+.graph-set {
   display: flex;
   align-items: flex-end;
 }
 
-.monday-inc,
-.tuesday-inc,
-.wednesday-inc,
-.thursday-inc,
-.friday-inc,
-.saturday-inc,
-.sunday-inc {
+.bar-1 {
   width: 0.8rem;
   border-radius: 2rem;
   background-color: #7275f5;
   margin-right: 0.2rem;
 }
-.monday-inc {
-  height: 22rem;
-}
-.tuesday-inc {
-  height: 14rem;
-}
-.wednesday-inc {
-  height: 9rem;
-}
-.thursday-inc {
-  height: 20rem;
-}
-.friday-inc {
-  height: 13rem;
-}
-.saturday-inc {
-  height: 9rem;
-}
-.sunday-inc {
-  height: 4rem;
-}
 
-.monday-exp,
-.tuesday-exp,
-.wednesday-exp,
-.thursday-exp,
-.friday-exp,
-.saturday-exp,
-.sunday-exp {
+.bar-2 {
   width: 0.4rem;
   border-radius: 1rem;
   background-color: #e078af;
 }
 
-.monday-exp {
-  height: 10rem;
-}
-.tuesday-exp {
-  height: 5rem;
-}
-.wednesday-exp {
-  height: 3rem;
-}
-.thursday-exp {
-  height: 10rem;
-}
-.friday-exp {
-  height: 8rem;
-}
-.saturday-exp {
-  height: 5rem;
-}
-.sunday-exp {
-  height: 3rem;
-}
 
-.week-days {
-  width: 60.8rem;
+#week-days {
   font-family: "Montserrat", sans-serif;
   font-size: 2.1rem;
   font-weight: 300;
   display: flex;
   align-items: flex-end;
-  justify-content: space-between;
-  margin-left: 5.5rem;
+  justify-content: space-around;
+  margin-left: 4rem;
 }
 
 #colors {
@@ -242,6 +186,24 @@ i {
 i + i {
   margin-left: 2rem;
   color: #e078af;
+}
+
+
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
 
 @media (max-width: 890px) {

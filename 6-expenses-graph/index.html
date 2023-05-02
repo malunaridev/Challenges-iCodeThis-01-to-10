@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>iCodeThis - Challenge #06: Expenses Graph</title>
     <link rel="stylesheet" href="style.css" />
+
     <script
       src="https://kit.fontawesome.com/d92630495d.js"
       crossorigin="anonymous"
@@ -21,14 +22,14 @@
       <h1>Expenses</h1>
       <div id="period-picker">
         <div class="periods">
-          <button class="weekly">Weekly</button>
-          <button class="monthly">Monthly</button>
-          <button class="yearly">Yearly</button>
+          <button id="weekly" class="selected">Weekly</button>
+          <button id="monthly">Monthly</button>
+          <button id="yearly">Yearly</button>
         </div>
         <div class="more"><i class="fa-sharp fa-solid fa-ellipsis"></i></div>
       </div>
       <div id="graph">
-        <div class="money">
+        <div class="money" >
           <div class="quantify">
             <p>4K</p>
             <p>3K</p>
@@ -44,38 +45,38 @@
             <hr />
           </div>
         </div>
-        <div class="graph-bars">
-          <div class="monday">
-            <div class="monday-inc"></div>
-            <div class="monday-exp"></div>
+        <div id="graph-bars" class="fade-in">
+          <div class="graph-set">
+            <div class="bar-1" style="height: 22rem"></div>
+            <div class="bar-2" style="height: 10rem"></div>
           </div>
-          <div class="tuesday">
-            <div class="tuesday-inc"></div>
-            <div class="tuesday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 14rem"></div>
+            <div class="bar-2" style="height: 5rem"></div>
           </div>
-          <div class="wednesday">
-            <div class="wednesday-inc"></div>
-            <div class="wednesday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 9rem"></div>
+            <div class="bar-2" style="height: 3rem"></div>
           </div>
-          <div class="thursday">
-            <div class="thursday-inc"></div>
-            <div class="thursday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 20rem"></div>
+            <div class="bar-2" style="height: 10rem"></div>
           </div>
-          <div class="friday">
-            <div class="friday-inc"></div>
-            <div class="friday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 13rem"></div>
+            <div class="bar-2" style="height: 8rem"></div>
           </div>
-          <div class="saturday">
-            <div class="saturday-inc"></div>
-            <div class="saturday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 9rem"></div>
+            <div class="bar-2" style="height: 5rem"></div>
           </div>
-          <div class="sunday">
-            <div class="sunday-inc"></div>
-            <div class="sunday-exp"></div>
+          <div class="graph-set">
+            <div class="bar-1" style="height: 4rem"></div>
+            <div class="bar-2" style="height: 3rem"></div>
           </div>
         </div>
       </div>
-      <div class="week-days">
+      <div id="week-days">
         <p>Mon</p>
         <p>Tue</p>
         <p>Wed</p>
@@ -89,5 +90,6 @@
         <i class="fa-solid fa-circle"></i> Expenses
       </div>
     </main>
+  <script src="./graphs.js"></script>
   </body>
 </html>
