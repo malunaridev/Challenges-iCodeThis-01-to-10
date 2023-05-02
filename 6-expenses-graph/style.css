@@ -46,6 +46,7 @@ main h1 {
 #period-picker i {
   color: #000;
   cursor: pointer;
+  font-size: 3rem;
 }
 
 .periods {
@@ -84,7 +85,7 @@ main h1 {
   );
 }
 
-#period-picker button .selected:hover{
+#period-picker button .selected:hover {
   border: none;
 }
 
@@ -102,6 +103,7 @@ main h1 {
 p {
   font-size: 1.5rem;
 }
+
 .money {
   display: flex;
 }
@@ -140,7 +142,7 @@ hr {
   justify-content: space-around;
   align-items: flex-end;
   z-index: 1;
-  margin-left:2rem;
+  margin-left: 2rem;
 }
 
 .graph-set {
@@ -160,7 +162,6 @@ hr {
   border-radius: 1rem;
   background-color: #e078af;
 }
-
 
 #week-days {
   font-family: "Montserrat", sans-serif;
@@ -182,6 +183,7 @@ hr {
 }
 
 i {
+  font-size: 1.5rem;
   color: #7275f5;
   margin-right: 0.3rem;
 }
@@ -191,22 +193,21 @@ i + i {
   color: #e078af;
 }
 
-
 .fade-in {
-	opacity: 1;
-	animation-name: fadeInOpacity;
-	animation-iteration-count: 1;
-	animation-timing-function: ease-in;
-	animation-duration: 1s;
+  opacity: 1;
+  animation-name: fadeInOpacity;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-duration: 1s;
 }
 
 @keyframes fadeInOpacity {
-	0% {
-		opacity: 0;
-	}
-	100% {
-		opacity: 1;
-	}
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 @media (max-width: 890px) {
