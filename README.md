@@ -37,7 +37,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 
 |         |             |    
 | :-------------:|:-------------:|
-| ![Challenge #07](./7-social-profile/assets/Readme-files/Readme-Mockup.png)   | ![Challenge #08](./1-product-page/assets/Readme-files/Readme-Mockup.png)  |
+| ![Challenge #07](./7-social-profile/assets/Readme-files/Readme-Mockup.png)   | ![Challenge #08](./8-christmas-promo/assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #07:** Social Profile   | **Challenge #08:** Christmas Promo
 | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/7-social-profile) \| **Live Preview:** [🌐](https://challenge-ict-7-social-profile.netlify.app/)  | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/6-expenses-graph) \| **Live Preview:** [🌐](https://challenge-ict-8-christmas-promo.netlify.app/) 
 
