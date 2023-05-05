@@ -23,11 +23,11 @@ body {
 }
 
 #window {
-    height: 100vh;
-    width: 100vw;
-    background-color: #2626388c;  
-    position:absolute;
-    transition: opacity 0.4s linear;
+  height: 100vh;
+  width: 100vw;
+  background-color: #2626388c;
+  position: absolute;
+  transition: opacity 0.4s linear;
 }
 
 #content {
@@ -111,4 +111,22 @@ h3 {
   left: 0;
   right: 0;
   transition: opacity 0.4s linear;
+}
+
+@media (max-width: 515px) {
+  * {
+    font-size: 55%;
+  }
+}
+
+@media (max-width: 450px) {
+  * {
+    font-size: 45%;
+  }
+}
+
+@media (max-width: 350px) {
+  * {
+    font-size: 40%;
+  }
 }
