@@ -1,0 +1,114 @@
+* {
+  font-size: 62.5%;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url(./assets/pattern.jpeg);
+  background-size: contain;
+}
+
+.hide {
+  opacity: 0;
+}
+
+.show {
+  opacity: 1;
+}
+
+#window {
+    height: 100vh;
+    width: 100vw;
+    background-color: #2626388c;  
+    position:absolute;
+    transition: opacity 0.4s linear;
+}
+
+#content {
+  height: 45rem;
+  width: 45rem;
+  background-color: #ffffff;
+  border-radius: 0 2rem 0 0;
+  position: relative;
+  -webkit-box-shadow: 0px 15px 11px -6px #81889b;
+  box-shadow: 0px 15px 11px -6px #81889b;
+  transition: opacity 0.4s linear;
+}
+
+#close {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 3rem;
+  color: #9897a2;
+  position: absolute;
+  top: 1rem;
+  right: 2rem;
+  cursor: pointer;
+}
+
+#gift-text {
+  height: 45rem;
+  width: 45rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+i {
+  font-size: 4rem;
+  color: #182142;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+  color: #182142;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 300;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #cfa665;
+  letter-spacing: 0.09rem;
+}
+
+#getYourGift,
+#claimYourGift {
+  height: 5rem;
+  width: 30rem;
+  background-color: #182142;
+  color: #ffffff;
+  border: 0;
+  font-size: 1.4rem;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.09rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#claimYourGift {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  left: 0;
+  right: 0;
+  transition: opacity 0.4s linear;
+}

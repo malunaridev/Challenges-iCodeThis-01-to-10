@@ -1,27 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="style.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    <script
+      src="https://kit.fontawesome.com/d92630495d.js"
       crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;500&family=Poppins&display=swap"
+      rel="stylesheet"
     />
   </head>
   <body>
-    <main>
-        <i class="fa-solid fa-tree-christmas" style="color: #ff0080;"></i>
-      <h1>Merry Christmas!</h1>
-      <h2>
-        You completed all your December's tasks <br />
-        so we decided to get you a gift:
-      </h2>
-      <h3>50% off on your Yearly Premium Plan</h3>
-      <button>Get Your Gift</button>
+    <div id="window" class="hide"></div>
+    <main>     
+      <div id="content" class="hide">
+        <div id="close">X</div>
+        <div id="gift-text">
+          <i class="fa-solid fa-tree"></i>
+          <h1>Merry Christmas!</h1>
+          <h2>
+            You completed all your December's tasks <br />
+            so we decided to get you a gift:
+          </h2>
+          <h3>50% off on your Yearly Premium Plan</h3>
+          <button id="getYourGift">Get Your Gift</button>
+        </div>
+      </div>
+      <button id="claimYourGift">Click to Claim Your Gift</button>
     </main>
+    <script src="./script.js"></script>
   </body>
 </html>
