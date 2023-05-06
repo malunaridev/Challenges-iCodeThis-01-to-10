@@ -152,10 +152,16 @@ img:hover {
   * {
     font-size: 90%;
   }
+  body {
+    display: block;
+    height: auto;
+  }
   main {
     width: 31rem;
     height: 89rem;
-    margin-top: 20rem;
+    margin: auto;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
   }
 
   .cards {
@@ -170,16 +176,10 @@ img:hover {
   * {
     font-size: 80%;
   }
-  main {
-    margin-top: 10rem;
-  }
 }
 
 @media (max-width: 450px) {
   * {
     font-size: 70%;
-  }
-  main {
-    margin-top: 2rem;
   }
 }
