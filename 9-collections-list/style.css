@@ -118,7 +118,7 @@ img {
 img:hover {
   width: 13rem;
   height: 13rem;
-  transform: scale(200%);
+  transform: scale(2);
   outline: 0.2rem solid white;
   -webkit-box-shadow: 1px 5px 5px 4px rgba(71, 66, 66, 0.55);
   box-shadow: 1px 5px 5px 4px rgba(71, 66, 66, 0.55);
