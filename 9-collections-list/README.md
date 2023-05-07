@@ -6,7 +6,7 @@
 | :-------------:|
 | ![Challenge #09](./assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #09:** Collections List  | 
-| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/6-collections-list/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/9-collections-list) / **Live Preview:** [🌐](https://challenge-ict-9-collections-list.netlify.app/)  
+| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/9-collections-list/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/9-collections-list) / **Live Preview:** [🌐](https://challenge-ict-9-collections-list.netlify.app/)  
 
 <br />
 <br />

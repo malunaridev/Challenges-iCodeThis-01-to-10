@@ -44,7 +44,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 |         |             |    
 | :-------------:|:-------------:|
 | ![Challenge #09](./9-collections-list/assets/Readme-files/Readme-Mockup.png)   | ![Challenge #101](./1-product-page/assets/Readme-files/Readme-Mockup.png)  |
-| **Challenge #09:** Social Profile   | **Challenge:** Product Page  
+| **Challenge #09:** Collections List   | **Challenge:** Product Page  
 | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/9-collections-list) \| **Live Preview:** [🌐](https://challenge-ict-9-collections-list.netlify.app/)  | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/1-product-page) \| **Live Preview:** [🌐](https://challenges-ict-product-page.vercel.app/) 
 
 <br />
