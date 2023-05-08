@@ -13,7 +13,7 @@
 
 ![Introduction](./assets/Readme-files/Readme-Introduction.png)
 
-The challenge #06 was a easy one, and there was not much to learn about. I think this is a good sign, meaning that I have less and less to search every time. 
+The challenge #07 was a easy one, and there was not much to learn about. I think this is a good sign, meaning that I have less and less to search every time. 
 
 <br />
 <br />
