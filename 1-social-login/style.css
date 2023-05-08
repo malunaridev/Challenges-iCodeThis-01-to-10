@@ -127,8 +127,8 @@ button i {
 }
 
 .profile:hover {
-  animation: heartBeat; 
-  animation-duration: 2s; 
+  animation: heartBeat;
+  animation-duration: 2s;
 }
 
 .profile + .profile {
