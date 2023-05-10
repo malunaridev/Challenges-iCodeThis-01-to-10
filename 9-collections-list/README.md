@@ -13,7 +13,7 @@
 
 ![Introduction](./assets/Readme-files/Readme-Introduction.png)
 
-The jounrey on this repository it's almost over!
+The journey on this repository it's almost over!
 I intend to keep up to 10 challenges in each repository, so I can keep things organized here.
 The next one will be the last!
 
