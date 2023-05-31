@@ -11,7 +11,7 @@
 <br />
 <br />
 
-![Introduction](./assets/Readme-files/Readme-Introduction.png)
+![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introduction](./assets/Readme-files/Readme-introducao.png)
 
 The second challenge from iCodeThis was a mobile menu! It was really interesting how the UI behavior was represented, even if I don't really understand the point of the bottom close button. Probably this menu is supposed to be a drop-down, and, with my current knowledge, I still cannot build it. I hope I will learn it soon!
 
@@ -19,7 +19,7 @@ The second challenge from iCodeThis was a mobile menu! It was really interesting
 <br />
 <br />
 
-![Built with](./assets/Readme-files/Readme-Built-with.png)
+![Built with](./assets/Readme-files/Readme-Built-with.png) ![Construído com](./assets/Readme-files/Readme-Construido-com.png)
 
 - HTML
 - CSS
@@ -28,7 +28,7 @@ The second challenge from iCodeThis was a mobile menu! It was really interesting
 <br />
 <br />
 
-![Built with](./assets/Readme-files/Readme-Tested-with.png)
+![Built with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
 
 |  Validator  | Passed |
 | ------------- | :-------------: |
@@ -39,7 +39,7 @@ The second challenge from iCodeThis was a mobile menu! It was really interesting
 <br />
 <br />
 
-![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png)
+![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png) ![O que aprendi](./assets/Readme-files/Readme-O-que-aprendi.png)
 
 This kind of menu was really challenging for me because of the border, in which I spent a lot of time! I had trouble considering how the <code>border-left</code> affected the buttons when hovering the elements. I realized that I needed to reduce the space inside, so the content would not be pushed out of the container. I was pretty proud that I had no help during the process of coding and could solve a problem by myself at this point!
 
