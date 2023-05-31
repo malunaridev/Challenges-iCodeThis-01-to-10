@@ -12,7 +12,7 @@
 <br />
 <br />
 
-![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introduction](./assets/Readme-files/Readme-introducao.png)
+![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introdução](./assets/Readme-files/Readme-Introducao.png)
 
 This is the first challenge from iCodeThis! I found iCodeThis when I was randomly looking for a daily challenge to keep me coding everyday. Since I want to keep up my GitHub activity, I was really glad when I finally found an active community for daily challenges, but they were around Challenge #104, I guess. I took a look at their past challenges and I found myself really excited to participate, so I joined one. It was really fun, and then I've decided to start from #01! I can do more than 1 per day, so I expect to keep up with the community soon.
 
