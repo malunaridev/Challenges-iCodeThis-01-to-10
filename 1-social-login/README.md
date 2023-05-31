@@ -44,7 +44,7 @@ This is the first challenge from iCodeThis! I found iCodeThis when I was randoml
 <br />
 <br />
 
-![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png) ![Testado com](./assets/Readme-files/Readme-O-que-aprendi.png)
+![What I have learned](./assets/Readme-files/Readme-What-I-have-learned.png) ![O que aprendi](./assets/Readme-files/Readme-O-que-aprendi.png)
 
 It was really interesting to apply classes to images. I needed square ones to save me more time, so i searched for "icons". They are supposed to be profile pictures, and I randomly choose some that matches the color. I guess it helps with the visuals.
 Also, it was my first time using an icon next to a input form, so I had some trouble to center the arrow. It worked out well with the <code>display: table-cell</code> and it was new to me.
