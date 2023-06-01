@@ -6,12 +6,12 @@
 | :-------------:|
 | ![Challenge #2](./assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #02:** Mobile Menu   | 
-| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/2-mobile-menu/assets/Readme-files/example.jpg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/2-mobile-menu) / **Live Preview:** [🌐](https://challenges-ict-2-mobile-menu.vercel.app/)  
+| **Original Project:** [🌐](https://www.uidesigndaily.com/posts/sketch-mobile-menu-day-552) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/2-mobile-menu) / **Live Preview:** [🌐](https://challenges-ict-2-mobile-menu.vercel.app/)  
 
 <br />
 <br />
 
-![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introduction](./assets/Readme-files/Readme-introducao.png)
+![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introdução](./assets/Readme-files/Readme-Introducao.png)
 
 The second challenge from iCodeThis was a mobile menu! It was really interesting how the UI behavior was represented, even if I don't really understand the point of the bottom close button. Probably this menu is supposed to be a drop-down, and, with my current knowledge, I still cannot build it. I hope I will learn it soon!
 
