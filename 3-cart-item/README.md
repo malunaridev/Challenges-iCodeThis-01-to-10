@@ -31,7 +31,7 @@ This one was by far the easiest until now: I guess I've spent around 40 minutes 
 <br />
 <br />
 
-![Built with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
+![Tested with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
 
 |  Validator  | Passed |
 | ------------- | :-------------: |

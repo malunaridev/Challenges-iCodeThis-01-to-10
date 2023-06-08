@@ -32,7 +32,7 @@ The second challenge from iCodeThis was a mobile menu! It was really interesting
 <br />
 <br />
 
-![Built with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
+![Tested with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
 
 |  Validator  | Passed |
 | ------------- | :-------------: |

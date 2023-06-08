@@ -33,7 +33,7 @@ This is the first challenge from iCodeThis! I found iCodeThis when I was randoml
 <br />
 <br />
 
-![Built with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
+![Tested with](./assets/Readme-files/Readme-Tested-with.png) ![Testado com](./assets/Readme-files/Readme-Testado-com.png)
 
 | Validator                                                                        |                     Passed                     |
 | -------------------------------------------------------------------------------- | :--------------------------------------------: |
