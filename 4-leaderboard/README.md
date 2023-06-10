@@ -6,7 +6,7 @@
 | :-------------:|
 | ![Challenge #4](./assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #04:** Leaderboard   | 
-| **Original Project:** [🌐](https://github.com/malunaridev/Challenges-iCodeThis/blob/master/4-leaderboard/assets/Readme-files/example.jpeg?raw=true) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/4-leaderboard) / **Live Preview:** [🌐](https://challenges-ict-4-leaderboard.netlify.app/)  
+| **Original Project:** [🌐](https://uidesigndaily.com/posts/sketch-ranking-leaderboard-list-day-548) / **My Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/4-leaderboard) / **Live Preview:** [🌐](https://challenges-ict-4-leaderboard.netlify.app/)  
 
 <br />
 <br />
