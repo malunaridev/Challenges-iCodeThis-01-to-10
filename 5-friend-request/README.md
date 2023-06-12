@@ -11,7 +11,7 @@
 <br />
 <br />
 
-![Introduction](./assets/Readme-files/Readme-Introduction.png)
+![Introduction](./assets/Readme-files/Readme-Introduction.png) ![Introdução](./assets/Readme-files/Readme-Introducao.png)
 
 The challenge #05 was really fun and simple! I used some flexbox content to make everything fits in the right place, and I had fun realizing which divs I should use.
 
