@@ -10,6 +10,17 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <br />
 <br />
 
+![Built with](./assets/Readme-Built-with.png) ![Construído com](./assets/Readme-Construido-com.png)
+
+- HTML
+- CSS
+- [Animate.css](https://animate.style/)
+- [Font Awesome](https://fontawesome.com/)
+
+<br />
+<br />
+<br />
+
 ![Challenges List](./assets/Readme-Challenges-list.png)
 
 |         |             |    
