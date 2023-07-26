@@ -25,7 +25,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <br />
 <br />
 
-![Challenges List](./assets/Readme-Challenges-list.png)
+![Challenges List](./assets/Readme-Challenges-list.png) ![Construído com](./assets/Readme-Lista.png)
 
 |         |             |    
 | :-------------:|:-------------:|
