@@ -5,6 +5,9 @@
 ![What is this about?](./assets/Readme-What-is-this.png)
 
 I found iCodeThis when I was randomly looking for a daily challenge to keep me coding everyday. Since I want to keep up my GitHub activity, I was really glad when I finally found an active community for daily challenges, but they were around Challenge #104, I guess. I took a look at their past challenges and I found myself really excited to participate, so I joined one. It was really fun, and then I've decided to start from #01! I can do more than 1 per day, so I expect to keep up with the community soon.
+
+##### Eu encontrei o iCodeThis quando eu estava pesquisando aleatoriamente um desafio diário para me manter codando todos os dias. Já que eu quero manter a minha atividade do GitHub bastante ativa, eu fiquei muito feliz quando finalmente encontrei uma comunidade ativa, mas eles já estavam no desafio #104, eu acho. Eu dei uma olhada nos desafios passados e me vi muito animada para participar, então eu me juntei a um. Foi muito divertido, então decidi começar do #01! Eu consigo fazer mais de 1 por dia, então eu acho que consigo acompanhar a comunidade em breve.
+
 <br />
 <br />
 <br />
@@ -35,8 +38,6 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 | ![Challenge #03](./3-cart-item/assets/Readme-files/Readme-Mockup.png)  | ![Challenge #04](./4-leaderboard/assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #03:** Cart Item   | **Challenge #04:** Leaderboard  
 | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/3-cart-item) \| **Live Preview:** [🌐](https://challenges-ict-3-cart-item.netlify.app/)   | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/4-leaderboard) \| **Live Preview:** [🌐](https://challenges-ict-4-leaderboard.netlify.app/) 
-
-
 
 
 
