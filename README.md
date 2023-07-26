@@ -14,6 +14,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 
 - HTML
 - CSS
+- JavaScript
 - [Animate.css](https://animate.style/)
 - [Font Awesome](https://fontawesome.com/)
 
