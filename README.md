@@ -11,7 +11,6 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <br />
 <br />
 <br />
-<br />
 
 ![Built with](./assets/Readme-Built-with.png) ![Construído com](./assets/Readme-Construido-com.png)
 
