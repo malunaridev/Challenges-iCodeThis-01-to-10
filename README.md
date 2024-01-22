@@ -2,7 +2,7 @@
 <br />
 <br />
 
-![What is this about?](./assets/Readme-What-is-this.png)
+![Introduction](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Introduction.png?raw=true) ![Introdução](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Introducao.png?raw=true)
 
 I found iCodeThis when I was randomly looking for a daily challenge to keep me coding everyday. Since I want to keep up my GitHub activity, I was really glad when I finally found an active community for daily challenges, but they were around Challenge #104, I guess. I took a look at their past challenges and I found myself really excited to participate, so I joined one. It was really fun, and then I've decided to start from #01! I can do more than 1 per day, so I expect to keep up with the community soon.
 
@@ -12,11 +12,14 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <br />
 <br />
 
-![Built with](./assets/Readme-Built-with.png) ![Construído com](./assets/Readme-Construido-com.png)
+![Technologies used](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Technologies.png?raw=true) ![Tecnologias utilizadas](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Tecnologias.png?raw=true)
 
-- HTML
-- CSS
-- JavaScript
+<p align="center">
+  <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-HTML.png?raw=true">
+  <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-CSS.png?raw=true">
+  <img src="">
+</p>
+
 - [Animate.css](https://animate.style/)
 - [Font Awesome](https://fontawesome.com/)
 
@@ -24,7 +27,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <br />
 <br />
 
-![Challenges List](./assets/Readme-Challenges-list.png) ![Construído com](./assets/Readme-Lista.png)
+![Projects](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Projects.png?raw=true) ![Projetos](https://github.com/malunaridev/MalunariDev/blob/master/assets/Readme-Projetos.png?raw=true)
 
 |         |             |    
 | :-------------:|:-------------:|
