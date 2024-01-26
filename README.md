@@ -17,7 +17,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 <p align="center">
   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-HTML.png?raw=true">
   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-CSS.png?raw=true">
-  <img src="">
+   <img src="https://github.com/malunaridev/MalunariDev/blob/master/assets/Tech-JavaScript.png?raw=true">
 </p>
 
 - [Animate.css](https://animate.style/)
