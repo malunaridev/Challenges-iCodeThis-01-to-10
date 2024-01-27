@@ -31,7 +31,7 @@ I found iCodeThis when I was randomly looking for a daily challenge to keep me c
 
 |         |             |    
 | :-------------:|:-------------:|
-| ![Challenge #01](./1-social-login/assets/Readme-files/Readme-Mockup.png) | ![Challenge #02](./2-mobile-menu/assets/Readme-files/Readme-Mockup.png)  |
+| ![Challenge #01](./assets/Mockup1.png) | ![Challenge #02](./2-mobile-menu/assets/Readme-files/Readme-Mockup.png)  |
 | **Challenge #01:** Social Login   | **Challenge #02:** Mobile Menu 
 | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/1-social-login) \| **Live Preview:** [🌐](https://challenges-ict-social-login.vercel.app/) | **Code:** [📄](https://github.com/malunaridev/Challenges-iCodeThis/tree/master/2-mobile-menu) \| **Live Preview:** [🌐](https://challenges-ict-2-mobile-menu.vercel.app/) 
 
